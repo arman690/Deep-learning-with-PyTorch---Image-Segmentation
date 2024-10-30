@@ -66,7 +66,7 @@ for epoch in range(EPOCHS):
 
     print(f'Epoch {epoch + 1}, Train Loss: {train_loss}, Validation Loss: {valid_loss}')
 ```
-Evaluation
+## Evaluation
 ```python
 To evaluate the model and visualize results:
 # Load the best model
